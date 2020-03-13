@@ -1,0 +1,4 @@
+id=1 author='Шарль Перро' title='Золушка' status='paper' count=56
+id=2 author='Эккель'  title='Философия Java' status='paper, dig'
+id=3 author='Эккель'  title='Не Философия Java'
+id=4 author='Эккель'  title='Упаси меня Java'
